@@ -31,27 +31,27 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                                     | Schwierigkeit   | Übung                                                                                                                                         |
 |---------|----------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Erstellen Sie Ihre erste HTML-Seite im WebIDE         | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/html-create-your-first-html-page-in-webide-451041'>Labor Starten</a>                   |
-|      02 | 📖 Einfache HTML-Struktur und -Tags erstellen            | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/css-create-basic-html-structure-and-tags-451029'>Labor Starten</a>                     |
-|      03 | 📖 Erstellen Sie Ihre erste HTML-Seite mit Bildern       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/javascript-create-your-first-html-page-with-image-451042'>Labor Starten</a>            |
-|      04 | 📖 Lernen Sie HTML-Kommentare und Sonderzeichen          | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/html-learn-html-comments-and-special-symbols-451065'>Labor Starten</a>                 |
-|      05 | 📖 Erstellen von Hyperlinks und Navigation mit HTML a... | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/javascript-create-hyperlinks-and-navigation-with-html-a-tags-451037'>Labor Starten</a> |
-|      06 | 📖 Erstellen Sie inline-Textformatierungen mit span-T... | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/javascript-create-inline-text-styling-with-span-tags-in-html-451038'>Labor Starten</a> |
-|      07 | 📖 Bilder in HTML einfügen und gestalten                 | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/html-insert-and-style-images-in-html-452362'>Labor Starten</a>                         |
-|      08 | 📖 Erstellen und Gestalten von div-Elementen in HTML     | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/javascript-create-and-style-div-elements-in-html-451028'>Labor Starten</a>             |
-|      09 | 📖 Absätze mit HTML p-Tag erstellen                      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/html-create-paragraphs-with-html-p-tag-451039'>Labor Starten</a>                       |
-|      10 | 📖 HTML-Überschrift-Tags verstehen                       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/javascript-understand-html-heading-tags-451082'>Labor Starten</a>                      |
-|      11 | 📖 Erstellen von HTML-Listen mit verschiedenen Stilen    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/css-create-html-lists-with-different-styles-451035'>Labor Starten</a>                  |
-|      12 | 📖 Erstellen von HTML-Tabellen mit grundlegenden Attr... | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/css-create-html-tables-with-basic-attributes-451036'>Labor Starten</a>                 |
-|      13 | 📖 Erstellen von HTML-Formularelementen mit verschied... | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/css-create-html-form-elements-with-input-types-451034'>Labor Starten</a>               |
-|      14 | 📖 Semantische HTML-Tags in der Webentwicklung           | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/css-semantic-html-tags-in-web-development-451083'>Labor Starten</a>                    |
-|      15 | 📖 Verwenden Sie das Time-Tag für semantisches HTML      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/css-use-time-tag-for-semantic-html-451085'>Labor Starten</a>                           |
-|      16 | 📖 Abspielen von Audio-Dateien mit dem HTML5-Audio-Ta... | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/html-play-audio-files-with-html5-audio-tag-451070'>Labor Starten</a>                   |
-|      17 | 📖 Video in HTML einbetten und anpassen                  | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/html-embed-and-customize-video-in-html-451045'>Labor Starten</a>                       |
+|      01 | 📖 Erstellen Sie Ihre erste HTML-Seite im WebIDE         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/html-create-your-first-html-page-in-webide-451041'>Labor Starten</a>                   |
+|      02 | 📖 Einfache HTML-Struktur und -Tags erstellen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/css-create-basic-html-structure-and-tags-451029'>Labor Starten</a>                     |
+|      03 | 📖 Erstellen Sie Ihre erste HTML-Seite mit Bildern       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/javascript-create-your-first-html-page-with-image-451042'>Labor Starten</a>            |
+|      04 | 📖 Lernen Sie HTML-Kommentare und Sonderzeichen          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/html-learn-html-comments-and-special-symbols-451065'>Labor Starten</a>                 |
+|      05 | 📖 Erstellen von Hyperlinks und Navigation mit HTML a... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/javascript-create-hyperlinks-and-navigation-with-html-a-tags-451037'>Labor Starten</a> |
+|      06 | 📖 Erstellen Sie inline-Textformatierungen mit span-T... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/javascript-create-inline-text-styling-with-span-tags-in-html-451038'>Labor Starten</a> |
+|      07 | 📖 Bilder in HTML einfügen und gestalten                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/html-insert-and-style-images-in-html-452362'>Labor Starten</a>                         |
+|      08 | 📖 Erstellen und Gestalten von div-Elementen in HTML     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/javascript-create-and-style-div-elements-in-html-451028'>Labor Starten</a>             |
+|      09 | 📖 Absätze mit HTML p-Tag erstellen                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/html-create-paragraphs-with-html-p-tag-451039'>Labor Starten</a>                       |
+|      10 | 📖 HTML-Überschrift-Tags verstehen                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/javascript-understand-html-heading-tags-451082'>Labor Starten</a>                      |
+|      11 | 📖 Erstellen von HTML-Listen mit verschiedenen Stilen    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/css-create-html-lists-with-different-styles-451035'>Labor Starten</a>                  |
+|      12 | 📖 Erstellen von HTML-Tabellen mit grundlegenden Attr... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/css-create-html-tables-with-basic-attributes-451036'>Labor Starten</a>                 |
+|      13 | 📖 Erstellen von HTML-Formularelementen mit verschied... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/css-create-html-form-elements-with-input-types-451034'>Labor Starten</a>               |
+|      14 | 📖 Semantische HTML-Tags in der Webentwicklung           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/css-semantic-html-tags-in-web-development-451083'>Labor Starten</a>                    |
+|      15 | 📖 Verwenden Sie das Time-Tag für semantisches HTML      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/css-use-time-tag-for-semantic-html-451085'>Labor Starten</a>                           |
+|      16 | 📖 Abspielen von Audio-Dateien mit dem HTML5-Audio-Ta... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/html-play-audio-files-with-html5-audio-tag-451070'>Labor Starten</a>                   |
+|      17 | 📖 Video in HTML einbetten und anpassen                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/html-embed-and-customize-video-in-html-451045'>Labor Starten</a>                       |
 
 ## Mehr
 
-- 🔗 [HTML Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [HTML Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [HTML Free Tutorials](https://github.com/labex-labs/html-free-tutorials)
+- 🔗 [HTML Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [HTML Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [HTML Kostenlose Tutorials](https://github.com/labex-labs/html-free-tutorials)
 
