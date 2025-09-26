@@ -8,32 +8,23 @@
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/pt/courses/html-for-beginners)
 
-Aprenda os fundamentos do HTML, a base do desenvolvimento web. Este curso abrange as tags HTML básicas, a criação da estrutura de páginas web, o trabalho com imagens, links, listas, tabelas e formulários. Explore os elementos semânticos HTML5 e multimídia.
+Aprenda os fundamentos do HTML, desde a estrutura do documento até a criação da sua primeira página pessoal. Domine conceitos essenciais de HTML através de laboratórios práticos que cobrem formatação de texto, listas, links, imagens, tabelas e formulários.
 
 ![HTML](https://img.shields.io/badge/HTML-whitesmoke?style=for-the-badge&logo=html)
 
 
 ## Exercícios
 
-|   Índice | Nome                                                        | Dificuldade   | Prática                                                                                                                                     |
-|----------|-------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🔵 Crie Sua Primeira Página HTML no WebIDE               | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-create-your-first-html-page-in-webide-451041'>Iniciar Lab</a>                   |
-|       02 | 📖 🔵 Criar Estrutura e Tags HTML Básicas                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/css-create-basic-html-structure-and-tags-451029'>Iniciar Lab</a>                     |
-|       03 | 📖 🔵 Crie Sua Primeira Página HTML com Imagem              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-create-your-first-html-page-with-image-451042'>Iniciar Lab</a>            |
-|       04 | 📖 🔵 Aprenda Comentários HTML e Símbolos Especiais         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-learn-html-comments-and-special-symbols-451065'>Iniciar Lab</a>                 |
-|       05 | 📖 🔵 Criar Hiperlinks e Navegação com Tags HTML a          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-create-hyperlinks-and-navigation-with-html-a-tags-451037'>Iniciar Lab</a> |
-|       06 | 📖 🔵 Criar Estilos de Texto Inline com Tags span em HTM... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-create-inline-text-styling-with-span-tags-in-html-451038'>Iniciar Lab</a> |
-|       07 | 📖 🔵 Inserir e Estilizar Imagens em HTML                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-insert-and-style-images-in-html-452362'>Iniciar Lab</a>                         |
-|       08 | 📖 🔵 Criar e Estilizar Elementos div em HTML               | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-create-and-style-div-elements-in-html-451028'>Iniciar Lab</a>             |
-|       09 | 📖 🔵 Criar Parágrafos com a Tag HTML p                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-create-paragraphs-with-html-p-tag-451039'>Iniciar Lab</a>                       |
-|       10 | 📖 🔵 Entenda as Tags de Cabeçalho HTML                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/javascript-understand-html-heading-tags-451082'>Iniciar Lab</a>                      |
-|       11 | 📖 🔵 Criar Listas HTML com Diferentes Estilos              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/css-create-html-lists-with-different-styles-451035'>Iniciar Lab</a>                  |
-|       12 | 📖 🔵 Criar Tabelas HTML com Atributos Básicos              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/css-create-html-tables-with-basic-attributes-451036'>Iniciar Lab</a>                 |
-|       13 | 📖 🔵 Criar Elementos de Formulário HTML com Tipos de En... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/css-create-html-form-elements-with-input-types-451034'>Iniciar Lab</a>               |
-|       14 | 📖 🔵 Tags HTML Semânticas no Desenvolvimento Web           | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/css-semantic-html-tags-in-web-development-451083'>Iniciar Lab</a>                    |
-|       15 | 📖 🔵 Use a Tag Time para HTML Semântico                    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/css-use-time-tag-for-semantic-html-451085'>Iniciar Lab</a>                           |
-|       16 | 📖 🔵 Reproduzir Arquivos de Áudio com a Tag de Áudio HT... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-play-audio-files-with-html5-audio-tag-451070'>Iniciar Lab</a>                   |
-|       17 | 📖 🔵 Incorporar e Personalizar Vídeos em HTML              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-embed-and-customize-video-in-html-451045'>Iniciar Lab</a>                       |
+|   Índice | Nome                              | Dificuldade   | Prática                                                                                                     |
+|----------|-----------------------------------|---------------|-------------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🆓 Estrutura de Documento HTML | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-html-document-structure-597898'>Iniciar Lab</a> |
+|        2 | 📖 🆓 Formatação de Texto em HTML | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-html-text-formatting-597904'>Iniciar Lab</a>    |
+|        3 | 📖 🆓 Listas HTML                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-html-lists-597902'>Iniciar Lab</a>              |
+|        4 | 📖 🆓 Links HTML                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-html-links-597901'>Iniciar Lab</a>              |
+|        5 | 📖 🆓 Imagens HTML                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-html-images-597900'>Iniciar Lab</a>             |
+|        6 | 📖  Tabelas HTML                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-html-tables-597903'>Iniciar Lab</a>             |
+|        7 | 📖  Formulários HTML              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-html-forms-597899'>Iniciar Lab</a>              |
+|        8 | 📖  Página Web Pessoal em HTML    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/html-html-personal-webpage-597905'>Iniciar Lab</a>   |
 
 ## Ambiente
 
