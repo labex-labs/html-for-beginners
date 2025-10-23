@@ -15,20 +15,20 @@
 
 ## 练习
 
-|   序号 | 名称                  | 难度   | 练习                                                                                                     |
-|--------|-----------------------|--------|----------------------------------------------------------------------------------------------------------|
-|      1 | 📖 🆓 HTML 文档结构   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/html-html-document-structure-597898'>开始实验</a> |
-|      2 | 📖 🆓 HTML 文本格式化 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/html-html-text-formatting-597904'>开始实验</a>    |
-|      3 | 📖 🆓 HTML 列表       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/html-html-lists-597902'>开始实验</a>              |
-|      4 | 📖 🆓 HTML 链接       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/html-html-links-597901'>开始实验</a>              |
-|      5 | 📖 🆓 HTML 图片       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/html-html-images-597900'>开始实验</a>             |
-|      6 | 📖  HTML 表格         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/html-html-tables-597903'>开始实验</a>             |
-|      7 | 📖  HTML 表单         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/html-html-forms-597899'>开始实验</a>              |
-|      8 | 📖  HTML 个人网页     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/html-html-personal-webpage-597905'>开始实验</a>   |
+|   序号 | 名称                  | 难度   | 练习                                                                                                                          |
+|--------|-----------------------|--------|-------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🧩 🆓 HTML 文档结构   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/html-html-document-structure-597898?course=html-for-beginners'>开始实验</a> |
+|      2 | 🧩 🆓 HTML 文本格式化 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/html-html-text-formatting-597904?course=html-for-beginners'>开始实验</a>    |
+|      3 | 🧩 🆓 HTML 列表       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/html-html-lists-597902?course=html-for-beginners'>开始实验</a>              |
+|      4 | 🧩 🆓 HTML 链接       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/html-html-links-597901?course=html-for-beginners'>开始实验</a>              |
+|      5 | 🧩 🆓 HTML 图片       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/html-html-images-597900?course=html-for-beginners'>开始实验</a>             |
+|      6 | 🧩  HTML 表格         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/html-html-tables-597903?course=html-for-beginners'>开始实验</a>             |
+|      7 | 🧩  HTML 表单         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/html-html-forms-597899?course=html-for-beginners'>开始实验</a>              |
+|      8 | 🧩  HTML 个人网页     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/html-html-personal-webpage-597905?course=html-for-beginners'>开始实验</a>   |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
