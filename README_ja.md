@@ -15,20 +15,20 @@
 
 ## 演習
 
-|   インデックス | 名前                            | 難易度   | 練習                                                                                                       |
-|----------------|---------------------------------|----------|------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🆓 HTML ドキュメントの構造   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/html-html-document-structure-597898'>ラボを開始</a> |
-|              2 | 📖 🆓 HTML テキストフォーマット | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/html-html-text-formatting-597904'>ラボを開始</a>    |
-|              3 | 📖 🆓 HTML リスト               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/html-html-lists-597902'>ラボを開始</a>              |
-|              4 | 📖 🆓 HTML リンク               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/html-html-links-597901'>ラボを開始</a>              |
-|              5 | 📖 🆓 HTML 画像                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/html-html-images-597900'>ラボを開始</a>             |
-|              6 | 📖  HTML テーブル               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/html-html-tables-597903'>ラボを開始</a>             |
-|              7 | 📖  HTML フォーム               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/html-html-forms-597899'>ラボを開始</a>              |
-|              8 | 📖  HTML パーソナルウェブページ | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/html-html-personal-webpage-597905'>ラボを開始</a>   |
+|   インデックス | 名前                            | 難易度   | 練習                                                                                                                            |
+|----------------|---------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🧩 🆓 HTML ドキュメントの構造   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/html-html-document-structure-597898?course=html-for-beginners'>ラボを開始</a> |
+|              2 | 🧩 🆓 HTML テキストフォーマット | 初級     | <a target='_blank' href='https://labex.io/ja/labs/html-html-text-formatting-597904?course=html-for-beginners'>ラボを開始</a>    |
+|              3 | 🧩 🆓 HTML リスト               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/html-html-lists-597902?course=html-for-beginners'>ラボを開始</a>              |
+|              4 | 🧩 🆓 HTML リンク               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/html-html-links-597901?course=html-for-beginners'>ラボを開始</a>              |
+|              5 | 🧩 🆓 HTML 画像                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/html-html-images-597900?course=html-for-beginners'>ラボを開始</a>             |
+|              6 | 🧩  HTML テーブル               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/html-html-tables-597903?course=html-for-beginners'>ラボを開始</a>             |
+|              7 | 🧩  HTML フォーム               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/html-html-forms-597899?course=html-for-beginners'>ラボを開始</a>              |
+|              8 | 🧩  HTML パーソナルウェブページ | 初級     | <a target='_blank' href='https://labex.io/ja/labs/html-html-personal-webpage-597905?course=html-for-beginners'>ラボを開始</a>   |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
