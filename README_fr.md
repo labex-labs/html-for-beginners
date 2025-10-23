@@ -15,20 +15,20 @@ Apprenez les bases du HTML, de la structure du document à la création de votre
 
 ## Exercices
 
-|   Index | Nom                                | Difficulté   | Pratique                                                                                                         |
-|---------|------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Structure d'un document HTML | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/html-html-document-structure-597898'>Commencer le Lab</a> |
-|       2 | 📖 🆓 Formatage de texte HTML      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/html-html-text-formatting-597904'>Commencer le Lab</a>    |
-|       3 | 📖 🆓 Listes HTML                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/html-html-lists-597902'>Commencer le Lab</a>              |
-|       4 | 📖 🆓 Liens HTML                   | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/html-html-links-597901'>Commencer le Lab</a>              |
-|       5 | 📖 🆓 Images HTML                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/html-html-images-597900'>Commencer le Lab</a>             |
-|       6 | 📖  Tableaux HTML                  | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/html-html-tables-597903'>Commencer le Lab</a>             |
-|       7 | 📖  Formulaires HTML               | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/html-html-forms-597899'>Commencer le Lab</a>              |
-|       8 | 📖  Page Web Personnelle en HTML   | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/html-html-personal-webpage-597905'>Commencer le Lab</a>   |
+|   Index | Nom                                | Difficulté   | Pratique                                                                                                                              |
+|---------|------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Structure d'un document HTML | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/html-html-document-structure-597898?course=html-for-beginners'>Commencer le Lab</a> |
+|       2 | 🧩 🆓 Formatage de texte HTML      | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/html-html-text-formatting-597904?course=html-for-beginners'>Commencer le Lab</a>    |
+|       3 | 🧩 🆓 Listes HTML                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/html-html-lists-597902?course=html-for-beginners'>Commencer le Lab</a>              |
+|       4 | 🧩 🆓 Liens HTML                   | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/html-html-links-597901?course=html-for-beginners'>Commencer le Lab</a>              |
+|       5 | 🧩 🆓 Images HTML                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/html-html-images-597900?course=html-for-beginners'>Commencer le Lab</a>             |
+|       6 | 🧩  Tableaux HTML                  | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/html-html-tables-597903?course=html-for-beginners'>Commencer le Lab</a>             |
+|       7 | 🧩  Formulaires HTML               | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/html-html-forms-597899?course=html-for-beginners'>Commencer le Lab</a>              |
+|       8 | 🧩  Page Web Personnelle en HTML   | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/html-html-personal-webpage-597905?course=html-for-beginners'>Commencer le Lab</a>   |
 
 ## À propos de LabEx
 
-LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, LabEx offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
+[LabEx](https://labex.io) est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo. Avec une approche stricte 'Apprendre en Faisant', des environnements en ligne interactifs dans le navigateur avec des vérifications automatisées étape par étape, une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences, et une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires, [LabEx](https://labex.io) offre une éducation pratique complète. La plateforme comprend l'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 ## Plus
 
